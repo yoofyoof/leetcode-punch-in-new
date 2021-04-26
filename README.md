@@ -22,7 +22,11 @@ Updated a leetcode punch-in website application with better design
 
 
 ## Screenshots
-![](https://drive.google.com/file/d/1tn166bFqBYvXeRyC4Xg4MgclpF-vjeWu/view?usp=sharing)
+**Sign-in Page Demo** <br>
+![](https://github.com/yoofyoof/leetcode-punch-in-new/blob/main/img/signInpage.png)
+
+**HomePage Demo**<br>
+![](https://github.com/yoofyoof/leetcode-punch-in-new/blob/main/img/homepage.png)
 
 ## Run it
 
