@@ -10,7 +10,7 @@ React dev server runs http://localhost:3000
 Yufei Zhu & Xiaomin Ouyang
 
 ## Website Link:
-[Leetcode Punch In](https://leetcode-punch-in-new.herokuapp.com/)
+[Leetcode Punch In App](https://leetcode-punch-in-new.herokuapp.com/)
 
 ## Project Objectives:
 Updated a leetcode punch-in website application with better design
