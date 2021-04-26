@@ -1,4 +1,4 @@
-# Leetcode Punch-in Website Application
+# Leetcode Punch-in-new Website Application
 
 ## nodeExpressReactBootstrapPagination
 A simple example connecting node + express + react with bootstrap and fake pagination
@@ -13,7 +13,7 @@ Yufei Zhu & Xiaomin Ouyang
 [Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
 
 ## Project Objectives:
-Build a leetcode punch-in website application 
+Updated a leetcode punch-in website application with better design
 - Motivation to practice leetcode questions 
 - personal calendar to display completed question and track progress 
 - Live-update punch-in timeline 
@@ -22,7 +22,7 @@ Build a leetcode punch-in website application
 
 
 ## Screenshots
-![](https://user-images.githubusercontent.com/68490431/114354727-7724e780-9b23-11eb-8126-ed579480bc76.png)
+![](https://drive.google.com/file/d/1tn166bFqBYvXeRyC4Xg4MgclpF-vjeWu/view?usp=sharing)
 
 ## Run it
 
