@@ -9,8 +9,8 @@ React dev server runs http://localhost:3000
 ## Authors: 
 Yufei Zhu & Xiaomin Ouyang
 
-## Class Link: 
-[Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
+## Website Link:
+[Leetcode Punch In](https://leetcode-punch-in-new.herokuapp.com/)
 
 ## Project Objectives:
 Updated a leetcode punch-in website application with better design
@@ -20,12 +20,11 @@ Updated a leetcode punch-in website application with better design
 - search by problem id 
 - ranking board for top users with most total completed questions
 
-
 ## Screenshots
-**Sign-in Page Demo** <br>
+### **Sign-in Page Demo** <br>
 ![](https://github.com/yoofyoof/leetcode-punch-in-new/blob/main/img/signInpage.png)
 
-**HomePage Demo**<br>
+### **HomePage Demo**<br>
 ![](https://github.com/yoofyoof/leetcode-punch-in-new/blob/main/img/homepage.png)
 
 ## Run it
@@ -61,3 +60,6 @@ yarn start
 ```
 
 And the frontend will run on http://localhost:3000
+
+## Class Link: 
+[Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
