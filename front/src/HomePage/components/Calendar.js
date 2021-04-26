@@ -8,7 +8,7 @@ import dayGridPlugin from "@fullcalendar/daygrid";
 import AddEventModal from "./AddEventModal.js";
 import moment from "moment";
 import PropTypes from "prop-types";
-
+import "./Calendar.css";
 function Calendar(props) {
   const [modalOpen, setModalOpen] = useState(false);
   const [events, setEvents] = useState([]);
@@ -98,7 +98,11 @@ function Calendar(props) {
       <button onClick={() => setModalOpen(true)}>
         Punch-in completed Question
       </button>
-      <div style={{ position: "relative", zIndex: 0 }}>
+      <div
+        aria-label="No value"
+        tabindex="0"
+        style={{ position: "relative", zIndex: 0 }}
+      >
         <FullCalendar
           ref={calendarRef}
           events={events}

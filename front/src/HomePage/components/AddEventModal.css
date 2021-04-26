@@ -1,0 +1,15 @@
+.fc .fc-daygrid-day.fc-day-today {
+	background-color: rgba(65, 105, 225, 0.3);
+}
+
+.fc .fc-daygrid-day.fc-day-today a.fc-daygrid-day-number {
+	color: rgba(0, 255, 0, 0.7);
+}
+
+.fc .fc-day-other .fc-daygrid-day-top {
+	opacity: 1;
+}
+
+.fc .fc-daygrid-day.fc-day-other a.fc-daygrid-day-number {
+	color: rgba(255, 255, 255, 0.7);
+}

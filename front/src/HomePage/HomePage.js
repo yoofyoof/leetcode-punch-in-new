@@ -95,7 +95,7 @@ function HomePage() {
 
   return (
     <div className="searchpost-page-body">
-      <Navbar logoutFunction={handleLogOut} />
+      <Navbar role="navigation" logoutFunction={handleLogOut} />
 
       <Container className="timeline">
         <div className="searchpost-filter-area">
@@ -117,7 +117,7 @@ function HomePage() {
 
         <div className="row">
           {dataStatus ? (
-            <div className="grid col-sm">
+            <div role="region" className="grid col-sm">
               <p className="title">~~~ What's happening? ~~~</p>
               {posts.map((t) => (
                 <div>
@@ -146,7 +146,7 @@ function HomePage() {
         </div>
       </Container>
 
-      <div className="calendar">
+      <div className="calendar" tabindex="0">
         <Calendar post={posts} onChange={getInfo} onRankChange={getRankInfo} />
       </div>
     </div>
