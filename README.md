@@ -62,4 +62,4 @@ yarn start
 And the frontend will run on http://localhost:3000
 
 ## Class Link: 
-[Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
+[Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/) 
