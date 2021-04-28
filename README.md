@@ -63,3 +63,15 @@ And the frontend will run on http://localhost:3000
 
 ## Class Link: 
 [Web Development](https://johnguerra.co/classes/webDevelopment_spring_2021/)
+
+<!---
+Haoyang Ding:
+Comments:
+I like the new version and the new color theme.
+I'm sorry I couldn't add more comment on the functionalities. It seems that the demo doesn't work on my browser.
+I open your demo based on Chrome. And it shows like this. It seems that your page fall into a scrollbar disaster. I stick the screen shot below.
+If you couldn't see the picture, find me on Wechat.
+![image](https://user-images.githubusercontent.com/55268661/116476817-9f555b80-a830-11eb-89eb-d7be6046e043.png)
+![image](https://user-images.githubusercontent.com/55268661/116476848-a9775a00-a830-11eb-8d3d-00732087576c.png)
+![image](https://user-images.githubusercontent.com/55268661/116477103-0541e300-a831-11eb-93e9-c8af2ee42abc.png)
+-->
